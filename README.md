@@ -11,3 +11,5 @@ iplanet ios
 
 ![Screen Shot 2021-08-21 at 17 45 38](https://user-images.githubusercontent.com/27660473/130319392-bd23dc66-1b8c-4ef5-a6ac-2fceb5468a82.png)
 
+Thanks to tria puspa for helping me to manage the images and description.
+
